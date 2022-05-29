@@ -143,4 +143,4 @@
                 8- mobile breakpoint
                 9- number of slides in mobile      
         */
-        cpcarosel("simple-carosal", 0, 0, 2000, 1, 2, 1);
+        cpcarosel("simple-carosal", 1, 1, 2000, 1, 2, 1);
